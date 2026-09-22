@@ -1,119 +1,82 @@
 Mohammed Kibriya
-Web Developer | Webflow • Framer • React.js • Python • Django
+Web Developer
 
-I’m a Web Developer with 1.5+ years of professional experience at Softvence Agency, where I currently work as an Assistant Manager.
+I build modern websites and web applications with a focus on clean interfaces, responsive design, and practical development.
 
-My work mainly focuses on Webflow, Framer, and frontend development with React.js, while I’m also expanding my backend development skills with Python and Django.
+I have 1.5+ years of professional experience at Softvence Agency, where I currently work as an Assistant Manager. My work revolves around Webflow, Framer, React.js, Python, and Django.
 
-Alongside development, I have strong experience in team leading, project management, and communicating with international clients. I also have experience working with clients through Fiverr, which has helped me understand client requirements, project communication, and delivering work professionally.
+Alongside development, I have hands-on experience in team leadership, project management, and international client communication. I also have freelance experience working with clients through Fiverr.
 
-What I Do
-🌐 Web Development with Webflow & Framer
-⚛️ Frontend Development with React.js
-🐍 Backend Development with Python & Django
-👥 Team Leading & Collaboration
-📋 Project Management
-🌍 International Client Communication
-💼 Freelance & Fiverr Projects
 Tech Stack
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git,github,vscode" /> </p>
 
-Frontend
-HTML
-CSS
+Web Development
+
+Webflow
+Framer
+React.js
 JavaScript
-React.js
-Website Development
-Webflow
-Framer
+HTML & CSS
+
 Backend
+
 Python
 Django
+
 Tools
-Git
-GitHub
-VS Code
-Professional Experience
-Assistant Manager — Softvence Agency
 
-1.5+ Years of Professional Experience
-
-Currently working as an Assistant Manager at Softvence Agency, contributing to web development projects while also taking responsibility for team coordination and project management.
-
-My responsibilities include:
-
-Leading and coordinating development teams
-Managing project tasks and deadlines
-Communicating with international clients
-Understanding client requirements and project goals
-Supporting developers throughout project development
-Reviewing work and maintaining project quality
-Helping ensure projects are delivered on time
-
-This experience has helped me develop not only technically, but also as a team leader, project coordinator, and client-facing professional.
-
-Freelance Experience
-
-I also have experience working with clients through Fiverr, where I have worked on web development projects and communicated directly with clients from different backgrounds.
-
-Through freelance work, I’ve gained practical experience in:
-
-Client communication
-Understanding project requirements
-Discussing revisions and feedback
-Managing project expectations
-Delivering projects professionally
-Currently Working With
-Webflow
-Framer
-React.js
-Python
-Django
 Git & GitHub
+VS Code
+What I'm Working On
+Building responsive websites with Webflow and Framer
+Developing modern frontend applications with React.js
+Building backend applications with Python and Django
+Working toward full-stack development
+Exploring modern web technologies and better development practices
+Professional Experience
+Role	Experience
+Assistant Manager — Softvence Agency	1.5+ Years
+Freelance Developer — Fiverr	Client Projects
 
-I'm currently focusing on improving my React.js and Django skills and gradually moving toward more complete full-stack web development.
+Softvence Agency
 
-Featured Projects
-Webflow
+Web development and project coordination
+Team leadership and task management
+Project planning and delivery
+International client communication
 
-Responsive websites, CMS-based projects, and modern business websites.
+Fiverr
 
-Framer
+Working directly with international clients
+Understanding project requirements
+Web development and project delivery
+Handling feedback and revisions
+Selected Work
+Area	Focus
+Webflow	Responsive websites & CMS
+Framer	Modern websites & interactions
+React.js	Frontend applications & UI
+Python / Django	Backend & web applications
 
-Modern websites with clean layouts, interactions, and responsive experiences.
+More projects will be added as I continue building and working with new technologies.
 
-React.js
+A Little About Me
 
-Frontend applications built with reusable components and modern JavaScript.
+I started with frontend and visual website development and gradually moved toward application development. My professional experience has also given me the opportunity to lead teams, manage projects, and communicate with international clients.
 
-Python & Django
+These days, I'm expanding my backend skills with Python and Django so I can work across both the interface and server side of web applications.
 
-Backend and web application projects as I continue expanding my full-stack development skills.
+I prefer learning by building real projects, working with people, and improving through practical experience.
 
-Beyond Development
-
-I enjoy working with people as much as I enjoy working with technology.
-
-My professional experience has given me strong skills in:
-
-Team Leadership
-Working with developers, coordinating tasks, and helping the team stay aligned with project goals.
-
-Project Management
-Planning tasks, tracking progress, handling deadlines, and keeping projects organized.
-
-International Communication
-Communicating with foreign clients, understanding requirements, discussing feedback, and maintaining professional relationships.
-
-Let's Connect
+Connect
 
 <p align="left"> <a href="https://github.com/gagukibriya"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.instagram.com/gagukibriya/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.facebook.com/gagukibriya"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://wa.me/8801766294624"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
 
 Currently Learning
 
-Advanced React · Django · REST APIs · Full-Stack Development · AI-powered Web Applications
+Django · REST APIs · Advanced React · Full-Stack Development
 
 Thanks for visiting
 
-Feel free to explore my repositories and see what I'm building.
+Feel free to explore my repositories and check out what I'm building.
